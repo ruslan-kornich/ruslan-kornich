@@ -1,25 +1,60 @@
-Hi everyone 👋🏻 I'm Ruslan!
+<div align="center">
 
-#### My life is very bright and colorful:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Ruslan%20Kornich&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%C2%B7%20Python%20%C2%B7%20TypeScript%20%C2%B7%20Rust&descSize=18&descColor=7aa2f7&descAlignY=52" width="100%" alt="Header banner"/>
 
-| key                   | value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Programming Languages | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&color=3776AB) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6) ![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white&color=000000) ![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=flat-square&logo=elastic%20stack&logoColor=white&color=609540) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&color=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6) |
-| Frameworks            | ![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white&color=092E20) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI) ![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white&color=000000) ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&color=339933) ![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&color=E0234E) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)                                                                          |
-| DataBases             | ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white&color=336791) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&color=4479A1) ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white&color=003B57)  ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white&color=DC382D)                                                                                                                                          |
-| IDE, Tools            | ![Sublime Badge](https://img.shields.io/badge/-Sublime-FF9800?style=flat-square&logo=sublime%20text&logoColor=white&color=FF9800) ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000?style=flat-square&logo=PyCharm&logoColor=white&color=000)     ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)                                                                                                                                                                                                                                                                                               |
-| ORM                   | ![Django ORM](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)      ![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)                                                                                                                                                                                                                                                                                                                                                                |
-| Version Control       | ![Git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white&color=F05032) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&color=181717) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)                                                                                                                                                                                                                                                                                                                     |
-| DevOps                | ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&color=2496ED)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| OS                    | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Codewars              | [![codewars](https://www.codewars.com/users/ruslan-kornich/badges/small)](https://www.codewars.com/users/ruslan-kornich)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+APIs+that+don't+fall+over+%F0%9F%9B%A0;Django+%C2%B7+FastAPI+%C2%B7+NestJS;Async+everything.+Type+everything.;Currently+getting+rusty+with+Rust+%F0%9F%A6%80" alt="Typing intro"/>
 
-##### Top Languages Here:
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslan-kornich&layout=compact&count_private=true&show_icons=True)
+## `$ whoami`
 
-##### Follow me around the web 👍🏻:
+```python
+class RuslanKornich:
+    role = "Backend Engineer"
+    languages = ["Python", "TypeScript", "JavaScript", "Rust", "SQL"]
+    frameworks = ["Django", "DRF", "FastAPI", "Flask", "NestJS"]
+    databases = ["PostgreSQL", "MySQL", "Redis", "SQLite"]
+    daily_driver = "Linux"
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/korny4)](https://t.me/korny4)
+    def current_focus(self) -> str:
+        return "high-load APIs, async pipelines and clean architecture"
+```
 
+## `$ ls ./toolbox`
 
+<div align="center">
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,nodejs,nestjs,rust&perline=9" alt="Languages and frameworks"/></a>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,linux,git,bootstrap,postman&perline=9" alt="Databases and tools"/></a>
+
+</div>
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruslan-kornich&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslan-kornich&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruslan-kornich&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="100%" alt="Contribution graph"/>
+
+</div>
+
+## `$ cat ./achievements`
+
+<div align="center">
+
+[![Codewars](https://www.codewars.com/users/ruslan-kornich/badges/large)](https://www.codewars.com/users/ruslan-kornich)
+
+</div>
+
+## `$ ping me`
+
+<div align="center">
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/korny4)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
